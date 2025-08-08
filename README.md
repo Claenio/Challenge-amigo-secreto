@@ -18,7 +18,7 @@
   <img alt="GITHUB PAGES" src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<h2>Explicando o código e funcionalidades</h2>
+<h2> 👩‍💻 Explicando o código e funcionalidades</h2>
 <p>O usuário adiciona nomes por meio de um campo de texto a uma lista visível ao pressionar Enter ou clicar em "Adicionar", se o campo de texto estiver vazio, o programa exibirá um alerta solicitando um nome válido.</p>
 <p>Os nomes inseridos são exibidos em uma lista visível na página, e ao finalizar o botão "Sortear Amigo" selecionará um dos nomes de forma aleatória, exibindo o resultado na tela, caso haja apenas um nome para sortear aparecerá um alerta avisando que precisa de no mínimo dois nomes.</p>
 <p>Ao clicar no botão "Sortear Amigo", um nome da lista será selecionado aleatoriamente e exibido na página.</p>
@@ -46,6 +46,9 @@
 </li>
 </ul>
 
-<h2>Linguagens utilizadas</h2>
-<p>O projeto tem como foco JAVASCRIPT, porém também é manipulado alguns elementos HTML e CSS.</p>
+<h2>📚Linguagens utilizadas</h2>
+<p>O projeto tem como foco JAVASCRIPT para prática de lógica de programação, porém também é manipulado alguns elementos HTML e CSS.</p>
+
+<h2>📸Screenshots</h2>
+<img width="1920" height="952" alt="Screenshot" src="https://github.com/user-attachments/assets/6dd3fdb5-cd55-414e-804f-47c4d139f0af" />
 
