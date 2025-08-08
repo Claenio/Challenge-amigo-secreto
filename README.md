@@ -9,13 +9,21 @@
 <img align="center" width="450" height="277" alt="amigo-secreto" src="https://github.com/user-attachments/assets/56199d21-bad7-4137-ac70-90127aa41a46"/>
 </div>
 
+
 <p>Olá, seja bem vindo ao meu projeto <B>amigo secreto</B>, desafio proposto pela Alura para conclusão do curso <b>Praticando Logica de programação: Challenge amigo secreto</b></p>
 <p>O desafio foi desenvolver uma aplicação permita aos usuários inserir nomes de amigos em uma lista para, em seguida, realizar um sorteio aleatório e determinar quem é o "amigo secreto".</p>
+
+<h2>👇Acesse a página aqui</h2>
+<a href="https://claenio.github.io/Challenge-amigo-secreto/">
+  <img alt="GITHUB PAGES" src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 <h2>Explicando o código e funcionalidades</h2>
 <p>O usuário adiciona nomes por meio de um campo de texto a uma lista visível ao pressionar Enter ou clicar em "Adicionar", se o campo de texto estiver vazio, o programa exibirá um alerta solicitando um nome válido.</p>
 <p>Os nomes inseridos são exibidos em uma lista visível na página, e ao finalizar o botão "Sortear Amigo" selecionará um dos nomes de forma aleatória, exibindo o resultado na tela, caso haja apenas um nome para sortear aparecerá um alerta avisando que precisa de no mínimo dois nomes.</p>
 <p>Ao clicar no botão "Sortear Amigo", um nome da lista será selecionado aleatoriamente e exibido na página.</p>
+
+
 
 <ul><h3>Funções</h3>
 <li>
@@ -40,3 +48,4 @@
 
 <h2>Linguagens utilizadas</h2>
 <p>O projeto tem como foco JAVASCRIPT, porém também é manipulado alguns elementos HTML e CSS.</p>
+
