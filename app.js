@@ -29,6 +29,15 @@ function atualizarArrayLista(){
 	listaDeAmigos.innerHTML = textoDaLista;
 }
 
+//FUNÇÃO PARA VERIFICAR QUANDO A TECLA ENTER FOR PRESSIONADA E ADICIONAR AMIGO
+function verificarTecla(event){
+	if (event.keyCode === 13) {
+		adicionarAmigo();
+	}
+}
+//EVENT LISTENER PARA ACIONAR FUNÇÃO VERIFICAR TECLA
+document.getElementById("amigo").addEventListener("keydown", verificarTecla);
+
 //FUNÇÃO PARA SORTEAR AMIGO E MOSTRAR NA TELA
 function sortearAmigo(){
 	let ResultadoSorteio = document.getElementById("resultado");
